@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Narmadhamohan
 - 👀 I’m interested in softwares, tools, process, Digital Work life Balance
-- 🌱 I’m currently undertaking software trainings on multiple technologies for freshers joining corporates and experienced professionals.
+- 🌱 I’m currently aiding software trainings on multiple technologies for freshers joining corporates and experienced professionals.
 - I'm finding time to update myself on Business Management -  Emotional Intelligence.
-- 💞️ I’m looking to collaborate for software development projects a technical consultant and those who needs trainings in software technologies
+- 💞️ I’m colloborating to develop my software projects and those who needs trainings in software technologies
 - 📫 How to reach me ...@narmadha.mohan1@gmail.com
 
 <!---
