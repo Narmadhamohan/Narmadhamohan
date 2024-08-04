@@ -1,0 +1,14 @@
+{
+  _id: 1,
+  name: 'Arun',
+  grades: [
+    {
+      subject: 'History',
+      score: 80
+    },
+    {
+      subject: 'History',
+      score: 80
+    }
+  ]
+}
