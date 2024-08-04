@@ -1,14 +1,37 @@
-[{
-  _id: 1,
-  name: 'Arun',
-  grades: [
-    {
-      subject: 'History',
-      score: 80
-    },
-    {
-      subject: 'History',
-      score: 80
-    }
-  ]
-}]
+[
+  {
+    "name": "Lionel Messi",
+    "age": 36,
+    "position": "Forward",
+    "club": "Inter Miami",
+    "nationality": "Argentina"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "age": 39,
+    "position": "Forward",
+    "club": "Al Nassr",
+    "nationality": "Portugal"
+  },
+  {
+    "name": "Kylian Mbappe",
+    "age": 25,
+    "position": "Forward",
+    "club": "Paris Saint-Germain",
+    "nationality": "France"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "age": 32,
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "nationality": "Belgium"
+  },
+  {
+    "name": "Virgil van Dijk",
+    "age": 32,
+    "position": "Defender",
+    "club": "Liverpool",
+    "nationality": "Netherlands"
+  }
+]
